@@ -2,7 +2,7 @@
 name: New Idea to help the project
 about: 'If you have an original idea to help us '
 title: New Idea to help the project
-labels: help wanted
+labels: suggestion
 assignees: NoePigeau
 
 ---
