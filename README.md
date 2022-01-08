@@ -1,30 +1,12 @@
-# GitHub pages project
+# Projet NuxtJS de Noé PIGEAU 3IW1
 
-Contexte:
+ce projet est le projet de base de nuxt. Pour plus d'information cliquez [ici](https://nuxtjs.org/docs/get-started/installation/)
 
-Vous êtes un lead dev qui met en place un repository pour son équipe, toutes les bonnes pratiques doivent être mise en place pour garantir une bonne gestion de projet.
+## 1/ installer les dépendences :
+`npm install`
 
-Ce qu'il faut faire:
-- [ ] Forker le projet disponible à [cette adresse](https://github.com/quentinhermiteau/github-pages-project)
-- [ ] Mettre en place toutes les bonnes pratiques autour du git flow
-- [ ] Rédiger un Readme (nom du projet, commande pour setup le projet, etc)
-- [ ] Mettre en place des templates pour les issues et les pull requests
-- [ ] Mettre en place une gestion de projet (+ labels)
-- [ ] Mettre en place une github pages avec un thème
-- [ ] Le projet devra contenir au moins 1 branche feature et 1 branche fix
-- [ ] Les commits doivent être correctement rédigés (ET SIGNÉS)
-- [ ] Tout travail doit être répertorié dans les issues et suivi avec la gestion de projet de GitHub
+## 2/ lancer l'environnement de developpment :
+`npm run dev`
 
-Règles pour le projet:
-- Projet en individuel
-- Noté sur 7
-
-Notation:
-| à faire | point |
-| --- | --- |
-| Gitflow | 1 |
-| Readme | 1,5 |
-| templates | 1,5 |
-| Gestion de projet | 1 |
-| commits + signés | 1 |
-| Github pages | 1 |
+## 3/ générer le projet pour la production :
+`npm run generate`
