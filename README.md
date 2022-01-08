@@ -1,12 +1,12 @@
-# Projet NuxtJS de Noé PIGEAU 3IW1
+# Project NuxtJS - Noé PIGEAU 3IW1
 
-ce projet est le projet de base de nuxt. Pour plus d'information cliquez [ici](https://nuxtjs.org/docs/get-started/installation/)
+this project is the basic nuxt project just after installation. For more information click [here](https://nuxtjs.org/docs/get-started/installation/)
 
-## 1/ installer les dépendences :
+## 1/ install dependencies :
 `npm install`
 
-## 2/ lancer l'environnement de developpment :
+## 2/ start dev environnement :
 `npm run dev`
 
-## 3/ générer le projet pour la production :
+## 3/ generate the project for production :
 `npm run generate`
